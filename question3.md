@@ -2,7 +2,7 @@
 
 #### To run the container use
 ```
-docker run -d --name rhythmc1q3 -p 8080:80 dockerashu/ckad:v2
+docker run -d --name rhythmc3q3 -p 8080:80 dockerashu/ckad:v2
 ```
 #### Accessing using
 ```
