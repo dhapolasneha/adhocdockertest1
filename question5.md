@@ -15,4 +15,4 @@ docker run -it --name rhythmc5q5 -v rhythmbhiwaniq5:/adhocvol -v /etc/passwd:/us
 wc -l user.txt > /adhocvol/usercount.txt
 ```
 
-#### Users Count: 28
+#### Lines Count: 28
