@@ -22,4 +22,4 @@ docker run --name rhythmc1q1 alpine:rhythmbhiwani >> question1.txt
 docker run --name rhythmc2q1 alpine:rhythmbhiwani >> question1.txt
 ```
 
-#### Now the 2 time values will be saved in you file names question1.txt
+#### Now the 2 time values will be saved in your file named question1.txt
